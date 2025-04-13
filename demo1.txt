@@ -16,5 +16,5 @@ MAIN-PROCEDURE.
     COMPUTE RESULT = NUM1 + NUM2.
     DISPLAY "The result of addition is: " RESULT.
     STOP RUN.
-# display "hi"
+# display "hello"
 
